@@ -1,0 +1,15 @@
+/* Edit this list to update the RFRC starter catalogue. Prices are displayed in INR as requested. */
+window.RFRC_PRODUCTS = [
+  {id:"1",name:"Resistance Band Set",category:"Exercise & Mobility",price:850,image:"images/bands.svg",tag:"Popular",description:"A versatile set of resistance bands for guided movement and exercise routines. Choose resistance with advice from your therapist."},
+  {id:"2",name:"Therapy Exercise Ball",category:"Exercise & Mobility",price:1450,image:"images/ball.svg",tag:"Everyday essential",description:"An exercise ball for supported movement and balance activities. Select the right size with help from a rehabilitation professional."},
+  {id:"3",name:"Hand Exercise Putty",category:"Hand Therapy",price:420,image:"images/putty.svg",tag:"Gentle practice",description:"Soft exercise putty for hand and finger activity. Resistance levels vary; ask your therapist which option suits your needs."},
+  {id:"4",name:"Foam Balance Pad",category:"Balance & Support",price:1250,image:"images/pad.svg",tag:"Staff pick",description:"A lightweight foam pad for balance practice with appropriate supervision and support."},
+  {id:"5",name:"Digital TENS Unit",category:"Pain & Recovery",price:2850,image:"images/device.svg",tag:"Ask a professional",description:"A portable electrotherapy device. Use only under the guidance of a qualified healthcare professional and follow its instructions."},
+  {id:"6",name:"Adjustable Walking Cane",category:"Mobility Aids",price:990,image:"images/cane.svg",tag:"Adjustable",description:"An adjustable-height walking cane with a comfortable handle. Ask a professional to check fit and safe use."},
+  {id:"7",name:"Finger Stretch Bands",category:"Hand Therapy",price:350,image:"images/bands.svg",tag:"Compact",description:"Compact finger exercise bands for hand activity. Choose tension and use with professional guidance."},
+  {id:"8",name:"Ankle Support Wrap",category:"Supports & Braces",price:760,image:"images/support.svg",tag:"Support",description:"A soft ankle support wrap for a comfortable fit. It is not a substitute for clinical assessment or treatment."},
+  {id:"9",name:"Hot & Cold Gel Pack",category:"Pain & Recovery",price:540,image:"images/pack.svg",tag:"Reusable",description:"A reusable gel pack for hot or cold application. Follow the package directions and protect skin during use."},
+  {id:"10",name:"Foam Roller",category:"Exercise & Mobility",price:1150,image:"images/roller.svg",tag:"For movement",description:"A textured foam roller for movement and self-care routines recommended by your rehabilitation professional."},
+  {id:"11",name:"Gait Training Belt",category:"Mobility Aids",price:1350,image:"images/belt.svg",tag:"Caregiver aid",description:"A sturdy gait belt intended to support caregiver-assisted transfers when a trained person has advised its use."},
+  {id:"12",name:"Wrist Support Brace",category:"Supports & Braces",price:680,image:"images/support.svg",tag:"Comfort fit",description:"A soft wrist support brace for everyday comfort. Choose sizing and wear duration with professional advice."}
+];
